@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="FMO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="FMO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="FMO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="FMO-Java" height="30" width="40" src="https://i.ibb.co/SvKJn2h/java.png">
   <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/MCfXzRf/fmo.jpg">
 </div>
   
