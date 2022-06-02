@@ -21,13 +21,9 @@ Here are some ideas to get you started:
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMOrnelas&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="FMO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" alt="FMO-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="FMO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FMO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <div>
+    <p>Especialização em:</p>
   <img align="center" alt="FMO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="FMO-Java" height="30" width="40" src="https://i.ibb.co/SvKJn2h/java.png">
   <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/MCfXzRf/fmo.jpg">
 </div>
   
