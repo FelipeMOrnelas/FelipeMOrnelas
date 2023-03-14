@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/elipeMOrnelas">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=FelipeMOrnelas&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMOrnelas&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/FelipeMOrnelas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeMOrnelas&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMOrnelas&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   <div>
     <p>Especialização em:</p>
-  <img align="center" alt="FMO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/MCfXzRf/fmo.jpg">
+    <img align="center" alt="FMO-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="FMO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/MCfXzRf/fmo.jpg">
 </div>
   
    ##
