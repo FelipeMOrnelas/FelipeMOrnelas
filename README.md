@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img align="center" alt="FMO-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="center" alt="FMO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="FMO-SQL1" height="38" width="45" src="icons/1postgresql.svg">
-    <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/MCfXzRf/fmo.jpg">
+    <img align="right" alt="FMO-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/VYpDcmMB/1703622254028.jpg">
 </div>
   
    ##
